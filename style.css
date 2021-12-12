@@ -1,0 +1,28 @@
+body {
+	background: #000;
+}
+
+p, h1, span {
+	color:#fff;
+}
+
+
+div {
+	width: 200px;
+	height: 200px;
+	background: #fff;
+}
+
+p {
+	color: #424242;
+	font-size: 50px;
+	text-align:center; 
+}
+
+.red_block {
+	background: red;
+}
+
+#super_block {
+	background: yellow;
+}
